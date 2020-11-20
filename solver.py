@@ -22,7 +22,7 @@ def valid(bo, num, pos):
         if bo[i][pos[1]] == num and pos[0] != i:
             return False
 
-    # Check Box
+    
     
 
 
